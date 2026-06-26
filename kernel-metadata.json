@@ -1,0 +1,13 @@
+{
+  "id": "rayaanraza1/jed-agent-security-attack",
+  "title": "JED Agent Security Attack",
+  "code_file": "notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": [
+    "ai-agent-security-multi-step-tool-attacks"
+  ]
+}

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Local eval artifacts
+.aicomp/
+kaggle_output/
+evaluation_artifacts/
+
+# Kaggle download (large; fetch via CLI)
+kaggle_input/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets — never commit real tokens
+.env
+*.pem
